@@ -1,0 +1,273 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/diabetes-mellitus-complicatn---primary.py
+inputModule3:
+  class: File
+  path: python/advanced-diabetes-mellitus---primary.py
+inputModule4:
+  class: File
+  path: python/diabetes-mellitus-monitoring---primary.py
+inputModule5:
+  class: File
+  path: python/diabetes-mellitus-hypoglycaemia---primary.py
+inputModule6:
+  class: File
+  path: python/arthropathy-diabetes-mellitus---primary.py
+inputModule7:
+  class: File
+  path: python/mononeuropathy-diabetes-mellitus---primary.py
+inputModule8:
+  class: File
+  path: python/ketoacidotic-diabetes-mellitus---primary.py
+inputModule9:
+  class: File
+  path: python/diabetes-mellitus-prolif---primary.py
+inputModule10:
+  class: File
+  path: python/diabetes-mellitus-pregnancy---primary.py
+inputModule11:
+  class: File
+  path: python/retinopathy-diabetes-mellitus---primary.py
+inputModule12:
+  class: File
+  path: python/dietary-diabetes-mellitus---primary.py
+inputModule13:
+  class: File
+  path: python/diabetes---primary.py
+inputModule14:
+  class: File
+  path: python/diabetes-mellitus---primary.py
+inputModule15:
+  class: File
+  path: python/diabetes-mellitus-community---primary.py
+inputModule16:
+  class: File
+  path: python/diabetes-mellitus-followup---primary.py
+inputModule17:
+  class: File
+  path: python/diabetes-mellitus-preexisting---primary.py
+inputModule18:
+  class: File
+  path: python/diabetes-mellitus-refer---primary.py
+inputModule19:
+  class: File
+  path: python/neurological-diabetes-mellitus---primary.py
+inputModule20:
+  class: File
+  path: python/ophthalmic-diabetes-mellitus---primary.py
+inputModule21:
+  class: File
+  path: python/diabetes-mellitus-injection---primary.py
+inputModule22:
+  class: File
+  path: python/adult-diabetes-mellitus---primary.py
+inputModule23:
+  class: File
+  path: python/diabetes-mellitus-screener---primary.py
+inputModule24:
+  class: File
+  path: python/diabetes-mellitus-unspecified---primary.py
+inputModule25:
+  class: File
+  path: python/dominant-diabetes-mellitus---primary.py
+inputModule26:
+  class: File
+  path: python/diabetes-mellitus-maturity---primary.py
+inputModule27:
+  class: File
+  path: python/stable-diabetes-mellitus---primary.py
+inputModule28:
+  class: File
+  path: python/clinic-diabetes-mellitus---primary.py
+inputModule29:
+  class: File
+  path: python/diabetes-mellitus-amyotrophy---primary.py
+inputModule30:
+  class: File
+  path: python/diabetes-mellitus-shared---primary.py
+inputModule31:
+  class: File
+  path: python/insulindependent-diabetes-mellitus---primary.py
+inputModule32:
+  class: File
+  path: python/diabetes-mellitus-control---primary.py
+inputModule33:
+  class: File
+  path: python/diabetes-mellitus-ketoacidosis---primary.py
+inputModule34:
+  class: File
+  path: python/diabetes-mellitus-gangrene---primary.py
+inputModule35:
+  class: File
+  path: python/painful-diabetes-mellitus---primary.py
+inputModule36:
+  class: File
+  path: python/diabetes-mellitus-examination---primary.py
+inputModule37:
+  class: File
+  path: python/diabetes-mellitus-niddm---primary.py
+inputModule38:
+  class: File
+  path: python/under-diabetes-mellitus---primary.py
+inputModule39:
+  class: File
+  path: python/diabetes-mellitus-cataract---primary.py
+inputModule40:
+  class: File
+  path: python/moderate-diabetes-mellitus---primary.py
+inputModule41:
+  class: File
+  path: python/diabetes-mellitus-check---primary.py
+inputModule42:
+  class: File
+  path: python/diabetes-mellitus-circulatory---primary.py
+inputModule43:
+  class: File
+  path: python/diabetes-mellitus-borderline---primary.py
+inputModule44:
+  class: File
+  path: python/angiopathy-diabetes-mellitus---primary.py
+inputModule45:
+  class: File
+  path: python/diabetes-mellitus-related---primary.py
+inputModule46:
+  class: File
+  path: python/diabetes-mellitus-youth---primary.py
+inputModule47:
+  class: File
+  path: python/neuropathy-diabetes-mellitus---primary.py
+inputModule48:
+  class: File
+  path: python/hospital-diabetes-mellitus---primary.py
+inputModule49:
+  class: File
+  path: python/diabetes-mellitus-screening---primary.py
+inputModule50:
+  class: File
+  path: python/maculopathy-diabetes-mellitus---primary.py
+inputModule51:
+  class: File
+  path: python/diabetes-mellitus-ulcerated---primary.py
+inputModule52:
+  class: File
+  path: python/right-diabetes-mellitus---primary.py
+inputModule53:
+  class: File
+  path: python/diabetes-mellitus-background---primary.py
+inputModule54:
+  class: File
+  path: python/diabetes-mellitus-given---primary.py
+inputModule55:
+  class: File
+  path: python/diabetes-mellitus-charcot---primary.py
+inputModule56:
+  class: File
+  path: python/diabetes-mellitus-offered---primary.py
+inputModule57:
+  class: File
+  path: python/diabetes-mellitus-albumin---primary.py
+inputModule58:
+  class: File
+  path: python/diabetes-mellitus-diabetology---primary.py
+inputModule59:
+  class: File
+  path: python/diabetes-mellitus-attack---primary.py
+inputModule60:
+  class: File
+  path: python/multidisciplinary-diabetes-mellitus---primary.py
+inputModule61:
+  class: File
+  path: python/neuropathic-diabetes-mellitus---primary.py
+inputModule62:
+  class: File
+  path: python/diabetes-mellitus-month---primary.py
+inputModule63:
+  class: File
+  path: python/diabetes-mellitus-needle---primary.py
+inputModule64:
+  class: File
+  path: python/diabetes-mellitus-treatment---primary.py
+inputModule65:
+  class: File
+  path: python/nonketotic-diabetes-mellitus---primary.py
+inputModule66:
+  class: File
+  path: python/juvenile-diabetes-mellitus---primary.py
+inputModule67:
+  class: File
+  path: python/diabetes-mellitus-assessment---primary.py
+inputModule68:
+  class: File
+  path: python/diabetes-mellitus-review---primary.py
+inputModule69:
+  class: File
+  path: python/exudative-diabetes-mellitus---primary.py
+inputModule70:
+  class: File
+  path: python/diabetes-mellitus-resolved---primary.py
+inputModule71:
+  class: File
+  path: python/pancreatic-diabetes-mellitus---primary.py
+inputModule72:
+  class: File
+  path: python/diabetes-mellitus-dependant---primary.py
+inputModule73:
+  class: File
+  path: python/diabetes-mellitus-counselling---primary.py
+inputModule74:
+  class: File
+  path: python/diabetes-mellitus-proteinuria---primary.py
+inputModule75:
+  class: File
+  path: python/diabetes-mellitus-nurse---primary.py
+inputModule76:
+  class: File
+  path: python/hyperosmolar-diabetes-mellitus---primary.py
+inputModule77:
+  class: File
+  path: python/diabetes-mellitus-excretion---primary.py
+inputModule78:
+  class: File
+  path: python/diabetes-mellitus-programme---primary.py
+inputModule79:
+  class: File
+  path: python/annual-diabetes-mellitus---primary.py
+inputModule80:
+  class: File
+  path: python/nephropathy-diabetes-mellitus---primary.py
+inputModule81:
+  class: File
+  path: python/patient-diabetes-mellitus---primary.py
+inputModule82:
+  class: File
+  path: python/diabetes-mellitus-admission---primary.py
+inputModule83:
+  class: File
+  path: python/digital-diabetes-mellitus---primary.py
+inputModule84:
+  class: File
+  path: python/diabetes-mellitus-liaison---primary.py
+inputModule85:
+  class: File
+  path: python/diabetes-mellitus-gastroparesis---primary.py
+inputModule86:
+  class: File
+  path: python/diabetes-mellitus-changed---primary.py
+inputModule87:
+  class: File
+  path: python/diabetes-mellitus-mononeuritis---primary.py
+inputModule88:
+  class: File
+  path: python/renal-diabetes-mellitus---primary.py
+inputModule89:
+  class: File
+  path: python/diabetes-mellitus-abnormality---primary.py
+inputModule90:
+  class: File
+  path: python/diabetes-mellitus-state---primary.py
+inputModule91:
+  class: File
+  path: python/output-cases.py
